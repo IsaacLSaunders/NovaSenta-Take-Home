@@ -12,7 +12,7 @@ You will need the following software installed on your machine:
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/IsaacLSaunders/NovaSenta-Take-Home.git
+    git clone https://github.com/IsaacLSaunders/NovaSenta-Take-Home.git
 
 2. Navigate to the project directory:
 
