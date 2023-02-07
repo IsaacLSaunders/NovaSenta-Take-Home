@@ -16,31 +16,32 @@ git clone https://github.com/IsaacLSaunders/NovaSenta-Take-Home.git
 
 2. Navigate to the project directory:
 
-cd NovaSenta-Take-Home/ScatterPlot
+    cd NovaSenta-Take-Home/ScatterPlot
 
 3. Install the required packages via npm in the terminal:
 
-npm install
+    npm install
 
 ## Usage
 To run the project, use the following command:
 
-npm run dev
+    npm run dev
 
 In the terminal you should get a message that looks like this:
 
-  > scatterplot@0.0.0 dev
-  > vite
+   scatterplot@0.0.0 dev
+   vite
 
 
   VITE v4.1.1  ready in 262 ms
 
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose
-  ➜  press h to show help
+    Local:   http://localhost:5173/
+    Network: use --host to expose
+    press h to show help
   
   
 Follow the url to interact with the application. 
+
 
 
 ## Acknowledgments
