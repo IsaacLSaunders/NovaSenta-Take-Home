@@ -29,11 +29,7 @@ To run the project, use the following command:
 
 In the terminal you should get a message that looks like this:
 
-   scatterplot@0.0.0 dev
-   vite
 
-
-  VITE v4.1.1  ready in 262 ms
 
     Local:   http://localhost:5173/
     Network: use --host to expose
