@@ -1,0 +1,106 @@
+:root {
+  --color1: #ff0000;
+  --color2: #ffa500;
+  --color3:#E25A42;
+  --color4:#00ff00;
+  --color5:#0000ff;
+  --color6:#800080;
+  --color7:#ff69b4;
+  --color8:#F029F0;
+  --color9:#ff8c00;
+  --color10:#999900;
+  --color11:#006400;
+  --color12:#00008b;
+  --color13:#4b0082;
+  --color14:#800000;
+}
+
+main {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  overflow: hidden
+}
+
+pre {
+  font-size: 7em;
+}
+
+.tick line {
+  stroke: #C0C0BB;
+}
+
+.tick text {
+  fill: #635F5D;
+  cursor: default;
+}
+
+.axis-label {
+  font-size: 2.5em;
+  fill: #635F5D;
+  cursor: default;
+}
+
+.legend-label {
+  font-size: 1.1em;
+  fill: #635F5D;
+  cursor: default;
+}
+
+.CD4Tcells {
+  fill: var(--color1)
+}
+
+.CD4Tcm{
+  fill: var(--color2)
+}
+ 
+.CD4Tem{
+  fill: var(--color3)
+}
+
+.CD8Tcells{
+  fill: var(--color4)
+}
+
+.CD8Tcm{
+  fill: var(--color5)
+}
+
+.CD8Tem{
+  fill: var(--color6)
+}
+
+.CLP{
+  fill: var(--color7)
+}
+
+.ClassswitchedmemoryBcells{
+  fill: var(--color8)
+}
+
+.GMP{
+  fill: var(--color9)
+}
+
+.MemoryBcells{
+  fill: var(--color10)
+}
+
+.Monocytes{
+  fill: var(--color11)
+}
+
+.NKcells{
+  fill: var(--color12)
+}
+
+.Tregs{
+  fill: var(--color13)
+}
+
+.naiveBcells{
+  fill: var(--color14)
+}
